@@ -1,0 +1,89 @@
+
+body
+{
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+.my-image
+{
+    height: 250px;
+}
+.pizza-img
+{
+    background-color: rgb(161, 97, 221);
+    height: 250px;
+    
+}
+.internet
+{
+    position: relative;
+    right: 80px;
+}
+.sunny
+{
+    position: absolute;
+    height: 100px;
+    left: 100px;
+    top: 10px;
+}
+h1
+{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 0;
+}
+h2
+{
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+p
+{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-family: 'Raleway', sans-serif;
+}
+.skill-row
+{
+    border-top: 100;
+    background-color: #a0c4e9;
+}
+.interests
+{
+    background-color: #dde7f2;
+}
+.middle-container
+{
+    background-color: #32e0c4;
+    position: relative;
+    padding-top: 100px;
+}
+.skill-row1
+{
+    background-color: #d9dae9;
+}
+.contact-me
+{
+    background-color: #dff4f3;
+}
+.bottom-container
+{
+    background-color: #dff4f3;
+}
+.top-cloud
+{
+    position: relative;
+    left: 180px;
+    top: 0px;
+} 
+.bottom-cloud
+{
+    position: relative;
+    right: 100px;
+    bottom: 220px;
+} 
